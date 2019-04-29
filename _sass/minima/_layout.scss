@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
+  background: transparent url('../assets/hr.png') bottom center no-repeat;
+  
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -106,7 +106,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  background: transparent url('../assets/hrb.png') top center no-repeat;
   padding: $spacing-unit 0;
 }
 
@@ -126,6 +126,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  text-align: center;
 }
 
 .footer-col {
