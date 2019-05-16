@@ -9,3 +9,5 @@ permalink: /publications/
 [Writing Arguments 7th Edition - contributer to "A Proposal for Universal Health Insurance in the United States" (MLA-style student research paper)](https://www.pearson.com/us/higher-education/program/Ramage-Writing-Arguments-A-Rhetoric-with-Readings-Brief-Edition-7th-Edition/PGM181517.html?tab=contents){:target="_blank"}
 
 [Guest on "Speak Freely" podcast - Civic Engagement](https://soundcloud.com/speak-freely-podcast/s01-e04-civic-engagement){:target="_blank"}
+
+[How to Gain Experience and Career Development as an Intern - Concur](https://www.concur.com/newsroom/article/how-to-gain-experience-and-career-development-as-an-intern){:target="_blank"}
