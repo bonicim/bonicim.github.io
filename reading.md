@@ -11,3 +11,5 @@ I like reading. Anything and everything. From math to cooking to programming to 
 * [The Perils of Java Schools](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/){:target="_blank"}
 * [The History of the URL: Domain, Protocol, and Port](https://eager.io/blog/the-history-of-the-url-domain-and-protocol/){:target="_blank"}
 * [The Black Swan](https://www.amazon.com/Black-Swan-Impact-Highly-Improbable-ebook/dp/B002RI99IM){:target="_blank"} 
+* [Programming Sucks](https://www.stilldrinking.org/programming-sucks){:target="_blank"}
+* [The Story of Mel, A Real Programmer](https://www.cs.utah.edu/~elb/folklore/mel-annotated/node1.html){:target="_blank"}

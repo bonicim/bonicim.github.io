@@ -12,4 +12,4 @@ Jazz music and culture are passions of mine. I especially love the swing era and
 * [Marian McPartland - Piano Jazz NPR series](https://www.npr.org/series/15773266/marian-mcpartland-s-piano-jazz)
 * [Norah Jones on Piano Jazz](https://www.npr.org/2016/08/26/491481080/norah-jones-on-piano-jazz){:target="_blank"}
 * [Billie Holiday, Lester Young, and stars - The Sound of Jazz CBS - 1957](https://youtu.be/YKqxG09wlIA){:target="_blank"}
-
+* [Bill Evans - The Universal Mind of Bill Evans - 1966](https://youtu.be/QwXAqIaUahI){:target"_blank} 
