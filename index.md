@@ -8,8 +8,8 @@ layout: home
 
 Hello my name is [Mark](mailto:mark@markbonicillo.com). 
 
-I'm a former Marine turned MBA turned Software Engineer in Seattle. I like to swim and lift. 
-My hobbies include playing the piano, listening to jazz, and reading non-fiction books in science, tech, psychology, and behavioral economics. 
-Currently, my favorite writer is [Cheryl Strayed](http://www.cherylstrayed.com/tiny_beautiful_things_114549.htm).
+I'm a Seattle native, born and raised in the Lake City and Capitol Hill neighborhoods. I'm also a former Marine who's returned back to Seattle after six years on the East coast or overseas. 
 
-I'm also a Seattle native. I work at a [bookstore](https://www.amazon.com)
+I like to run, crossfit, and swim. 
+My hobbies include the piano, jazz, and reading non-fiction books in science, tech, psychology, and behavioral economics. 
+Currently, my favorite writer is [Cheryl Strayed](http://www.cherylstrayed.com/tiny_beautiful_things_114549.htm).
