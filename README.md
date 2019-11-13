@@ -1,6 +1,6 @@
 # Summary
 
-This is the source code that generates my personal website: [markbonicillo.com](www.markbonicillo.com)
+This is the source code that generates my personal website: [markbonicillo.com](https://www.markbonicillo.com)
 
 # Development
 
