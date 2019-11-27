@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bonicim/bonicim.github.io.svg?branch=master)](https://travis-ci.org/bonicim/bonicim.github.io)
+
 # Summary
 
 This is the source code that generates my personal website: [markbonicillo.com](https://www.markbonicillo.com)

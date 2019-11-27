@@ -1,0 +1,12 @@
+language: ruby
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $MY_WEBSITE  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
+
+
+
