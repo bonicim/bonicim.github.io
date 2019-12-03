@@ -1,14 +1,15 @@
 language: ruby
 
-before_install: gem update bundler
+rvm:
+  - 2.6.3
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $MY_WEBSITE  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
-  on:
-    branch: master
+install: gem install jekyll
 
+script: jekyll build
 
+notifications:
+  email: false
 
+sudo: false
+
+cache: bundler
