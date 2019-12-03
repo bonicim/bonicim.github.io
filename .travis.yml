@@ -5,7 +5,7 @@ rvm:
 
 install: gem install jekyll
 
-script: bundle install && jekyll build
+script: bundle install && bundle exec jekyll build
 
 notifications:
   email: false
