@@ -2,7 +2,7 @@
 
 # Summary
 
-This is the source code that generates my personal website: [markbonicillo.com](https://www.markbonicillo.com)
+This is the source code that generates my personal website: [www.markbonicillo.com](https://www.markbonicillo.com) or [https://bonicim.github.io](https://bonicim.github.io)
 
 # Development
 
