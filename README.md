@@ -5,12 +5,28 @@
 This is the source code that generates my personal website: [www.markbonicillo.com](https://www.markbonicillo.com) or [https://bonicim.github.io](https://bonicim.github.io)
 
 # Development
+Performs a one-off build of the site to `./_site` by default. Used to generate the site for production.
 
-Jekyll command to run locally:
+```
+bundle exec jekyll build
+```
+
+
+Builds the site any time a source file changes and serves it locally:
 
 ```
 bundle exec jekyll serve
+
+# to preview sites with blog posts in the drafts folder
+bundle exec jekyll serve --drafts
 ```
+
+# FAQ
+
+What do each of the directories and files mean?
+See https://jekyllrb.com/docs/structure/
+
+
 
 # minima
 
