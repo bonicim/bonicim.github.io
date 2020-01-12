@@ -2,7 +2,7 @@
 layout: post
 title: "Norma Miller: An American Legend"
 date:   2019-05-12 17:32:59 -0700
-categories: general jazz lindyhop
+categories: jazz 
 ---
 ![Norma Miller](/assets/norma.jpeg)
 

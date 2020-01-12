@@ -2,7 +2,7 @@
 layout: post
 title: "Amos and Danny: The Original Behavioral Economists"
 date:   2019-05-15 00:46:11 -0700
-categories: general psychology
+categories: [behavioral economics]
 ---
 
 I recently finished an excellent book by acclaimed storyteller, Michael Lewis, called "The Undoing Project". I read the book on a Kindle and used my Goodreads account to keep all my highlights and notes. I really, really like this book. And the large number of [highlights and notes on my Goodreads account](https://www.goodreads.com/notes/30364647-the-undoing-project/93287960-mark?ref=abp){:target="_blank"} shows it. 

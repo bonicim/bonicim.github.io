@@ -1,6 +1,7 @@
 ---
 title: A Shortish Guide to Preparing for a Technical Interview 
 layout: post
+categories: [interviewing]
 ---
  
 Preparing for a technical interview can be a daunting task. Where should one start? What programming language should I use? What website should I use to practice questions? What books should I read? What questions should I focus on? And a million other questions race through one's mind when trying to prepare. 

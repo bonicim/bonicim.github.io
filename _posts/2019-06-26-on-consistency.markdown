@@ -2,7 +2,7 @@
 layout: post
 title: On Consistency
 date:   2019-06-26 00:30:59 -0700
-categories: performance self-improvement work-life
+categories: [learning]
 ---
 
 Ralph Waldo Emerson famously wrote, "A foolish consistency is the hobgoblin of little minds, adored 
