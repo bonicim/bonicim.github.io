@@ -8,7 +8,7 @@ layout: home
 
 Hello my name is [Mark](mailto:markabonicillo@gmail.com). 
 
-I'm a Seattle native, born and raised in the Lake City and Capitol Hill neighborhoods. I'm also a former Marine who's returned back to Seattle after six years on the East coast or overseas. 
+I'm a Seattle native, born and raised in the Lake City and Capitol Hill neighborhoods. I'm also a former Marine who's returned back to Seattle after six years of service. 
 
 I like to box, Crossfit, and swim. 
 My hobbies include the piano, jazz, and reading non-fiction books in science, tech, psychology, and behavioral economics. 

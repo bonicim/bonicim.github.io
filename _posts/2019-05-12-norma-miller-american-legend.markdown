@@ -8,6 +8,8 @@ categories: jazz
 
 Last Sunday afternoon, I was driving while listening to NPR and heard the news: Norma Miller, the acclaimed Lindy Hopper and "Queen of Swing", [died earlier in the morning](https://www.seattletimes.com/seattle-news/obituaries/norma-miller-lindy-hopping-queen-of-swing-is-dead-at-99/){:target="_blank"}. A living legend of American culture. Now she is simply a legend. 
 
+<!--more-->
+
 For those who don't know about [Norma Miller](http://queenofswing.net/){:target="_blank"}, she was a professional Lindy Hopper back in the 1930's and played an important role in the revival of Lindy Hop and swing dance from the 1980's to present day. She was also featured in a famous Lindy Hop dance sequence called [Hellzapoppin](https://youtu.be/qkthxBsIeGQ){:target="_blank"}. She is wearing the baker's hat. And that dance sequence is done in real time. It is not sped up. Norma never married,  but did fall in love once.  
 
 Although Norma lived to be 99 years-old and death was around the corner, the news of her death still shocked me because her death was personal to me. Although I was not a close friend of hers, I had met her three times in my life and each time was memorable. The first time I met her was in 2012 in Herrang, Sweden. I heard her give a talk about Lindy Hop and her life growing up in Harlem. Two comments from her stood out: She raved about how great it was to fall in love and how it's the most important feeling in the world to find a sweetheart and have that connection. She talso talked about how she doesn't give a damn what anyone thinks because she's 92 years-old. She was funny, charismatic, raunchy, and spoke her truth. 

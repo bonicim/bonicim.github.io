@@ -4,7 +4,7 @@ layout: post
 categories: [interviewing]
 ---
 
-I recently interviewed for a software engineer role with Bridgewater Associates, which is the largest, private hedge fund company in the world and is based out of Westport, Connecticut and just about an hour east of New York City. Preparing for this interview was unusual to say the least, but also challening and eye-opening and even refreshing, which I'll explore later in this article. 
+I recently interviewed for a software engineer role with Bridgewater Associates, which is the largest, private hedge fund company in the world and is based out of Westport, Connecticut and just about an hour east of New York City. <!--more--> Preparing for this interview was unusual to say the least, but also challening and eye-opening and even refreshing, which I'll explore later in this article. 
 
 My Bridgewater interview experience consisted of three rounds: an online, coding challenge; a phone interview with two software managers; and a full-day on-site interview, consistening of two technical interviews and a "Life Interview" session (more on that later).
 

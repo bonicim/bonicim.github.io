@@ -4,7 +4,7 @@ layout: post
 categories: [interviewing]
 ---
  
-Preparing for a technical interview can be a daunting task. Where should one start? What programming language should I use? What website should I use to practice questions? What books should I read? What questions should I focus on? And a million other questions race through one's mind when trying to prepare. 
+Preparing for a technical interview can be a daunting task. Where should one start? <!--more--> What programming language should I use? What website should I use to practice questions? What books should I read? What questions should I focus on? And a million other questions race through one's mind when trying to prepare. 
 
 While those are good questions to ask, it's important to step back ask two fundamental questions: 
 

@@ -8,6 +8,8 @@ categories: [learning]
 Ralph Waldo Emerson famously wrote, "A foolish consistency is the hobgoblin of little minds, adored 
 by little statesmen and philosophers and divines." 
 
+<!--more-->
+
 Although the famed transcendentalist writer was a brilliant essayist, I don't always agree with Emerson. I understand
 that Emerson explicity pointed to a "foolish" consistency, but it often gets mistaken for being simply consistent or 
 stubborn or close-minded. However, I think that consistency, rightly understood and practiced, is key to succeeding in 
