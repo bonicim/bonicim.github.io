@@ -21,6 +21,24 @@ bundle exec jekyll serve
 bundle exec jekyll serve --drafts
 ```
 
+## Ruby Stuff You Should Know
+
+Gem is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries (in a self-contained format called a "gem"), a tool designed to easily manage the installation of gems, and a server for distributing them.
+
+The gem command is used to build, upload, download, and install Gem packages. 
+
+RubyGems is very similar to apt-get, portage, and yum in functionality.
+See https://en.wikipedia.org/wiki/RubyGems
+
+Bundler is a dependency manager. Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.
+See https://bundler.io/man/bundle-install.1.html
+
+One of the most common uses is to update the dependencies in a Ruby project. You can do this with the following command:
+
+```
+bundle update --all
+```
+
 # FAQ
 
 What do each of the directories and files mean?
