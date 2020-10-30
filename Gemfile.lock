@@ -255,6 +255,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (~> 3.9.0)
+  kramdown (>= 2.3.0)
   tzinfo-data
 
 BUNDLED WITH
