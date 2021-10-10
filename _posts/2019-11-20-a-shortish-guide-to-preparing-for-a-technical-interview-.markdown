@@ -1,5 +1,5 @@
 ---
-title: A Shortish Guide to Preparing for a Technical Interview 
+title: A Short-ish Guide to Preparing for a Technical Interview 
 layout: post
 categories: [interviewing]
 ---
