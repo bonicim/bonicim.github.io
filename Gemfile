@@ -12,7 +12,7 @@ gem "jekyll", "~> 4.2"
 
 # The plugin will allow us to describe how far back a date was from today. e.g. If we give a date as 2016-03-23T10:20:00Z and the current date is 2020-04-13T10:20:00Z, then the output would be 4 years and 3 weeks ago.
 group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.13.1'
+  gem 'jekyll-timeago', '~> 0.14.0'
   gem "jekyll-feed", "~> 0.6" 
   gem "jekyll-seo-tag"
 end
